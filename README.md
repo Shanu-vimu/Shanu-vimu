@@ -1,42 +1,34 @@
-# 👋 Hi, I'm Vimukthi Shanuka
+# 👋 Hey there, I'm **Vimukthi Shanuka**  
 
-🎓 I'm a **4th-year Information Technology undergraduate** at **SLIIT University**, Sri Lanka.  
-💻 Passionate about **software development**, **data science**, and **cybersecurity**.  
-🚀 Always eager to learn, build, and explore new technologies.
+🎓 4th-year **Information Technology Undergraduate** at **SLIIT University**, Sri Lanka  
+💻 Passionate about **Software Development**, **Data Science**, and **Cybersecurity**  
+⚡ Always exploring new technologies and building creative solutions  
 
----
 
-### 🧠 About Me
-- 🔹 Focused on becoming a full-stack developer and cybersecurity professional.  
-- 🔹 Enjoy solving technical challenges and improving my coding skills.  
-- 🔹 Interested in software engineering, ethical hacking, and network security.  
+## 🧠 About Me  
+- 💡 Focused on becoming a **Full-Stack Developer** and **Cybersecurity Specialist**  
+- 🧩 Love solving technical challenges and learning modern tools  
+- 🔐 Interested in **Software Engineering**, **Ethical Hacking**, and **Network Security**
 
----
 
-### 💻 Skills & Technologies
-**Programming Languages:**  
-- Python  
-- Java  
-- JavaScript  
-- HTML  
-- CSS  
-- SQL  
+## 💻 Skills Overview  
 
-**Frameworks & Tools:**  
-- React  
-- Node.js  
-- Express  
-- Git & GitHub  
-- WordPress  
-- VS Code  
+ 🧮 **Programming Languages**     🧰 **Frameworks & Tools**     🔒 **Cybersecurity & Networking** 
 
-**Cybersecurity & Networking:**  
-- Ethical Hacking Fundamentals  
-- Network Security Basics  
-- Linux Command Line  
-- Wireshark & Nmap  
+ 🐍 Python                        ⚛️ React                      🧠 Ethical Hacking Fundamentals   
+ ☕ Java                          🟩 Node.js                    🌐 Network Security Basics        
+ 💛 JavaScript                    🚀 Express                    💻 Linux Command Line             
+ 🌍 HTML                          🧭 Git & GitHub               🔍 Wireshark & Nmap              
+ 🎨 CSS                           🌐 WordPress                  🧰 Penetration Testing Basics     
+ 🧾 SQL                           🧱 VS Code                    🛰️ System Monitoring Tools       
+
+
+## 🌟 Let's Connect  
+📧 **Email:** [vimukthishanuka53@gmail.com](mailto:vimukthishanuka53@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/vimukthi-shanuka](#)  
+ 
 
 ---
 
-### 📫 Contact Me
-📧 Email: [vimukthishanuka53@gmail.com
+⭐ *"Code with purpose. Secure with passion. Learn without limits."*
+
