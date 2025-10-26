@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Vimukthi Shanuka
 
-<!--
-**Shanu-vimu/Shanu-vimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **4th-year Information Technology undergraduate** at **SLIIT University**, Sri Lanka.  
+💻 Passionate about **software development**, **data science**, and **cybersecurity**.  
+🚀 Always eager to learn, build, and explore new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🔹 Focused on becoming a full-stack developer and cybersecurity professional.  
+- 🔹 Enjoy solving technical challenges and improving my coding skills.  
+- 🔹 Interested in software engineering, ethical hacking, and network security.  
+
+---
+
+### 💻 Skills & Technologies
+**Programming Languages:**  
+- Python  
+- Java  
+- JavaScript  
+- HTML  
+- CSS  
+- SQL  
+
+**Frameworks & Tools:**  
+- React  
+- Node.js  
+- Express  
+- Git & GitHub  
+- WordPress  
+- VS Code  
+
+**Cybersecurity & Networking:**  
+- Ethical Hacking Fundamentals  
+- Network Security Basics  
+- Linux Command Line  
+- Wireshark & Nmap  
+
+---
+
+### 📫 Contact Me
+📧 Email: [vimukthishanuka53@gmail.com
