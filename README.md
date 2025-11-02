@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **Vimukthi Shanuka**
 
 🎓 4th-year **Information Technology Undergraduate** at **SLIIT University**, Sri Lanka  
-💻 Passionate about **Software Development**, **Data Science**, and **Cybersecurity**  
+💻 Passionate about **Software Development**, **Web & App development**, and **Cybersecurity**  
 ⚡ Always exploring new technologies and building creative solutions  
 
 
